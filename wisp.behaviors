@@ -1,0 +1,7 @@
+{:+
+ {:files [(:lt.objs.files/file-types [{:name "Wisp",
+                                       :exts [:wisp],
+                                       :mime "text/x-clojurescript",
+                                       :tags [:editor.wisp]}])]
+  }
+ }
